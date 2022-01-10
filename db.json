@@ -1,26 +1,26 @@
 [
 	{
-		id: 1,
-		nombre: 'Almendras',
-		precio: 200,
-		imagen: './img/almendras.jpg'
+		"id": 1,
+		"nombre": "Almendras",
+		"precio": 200,
+		"imagen": "./img/almendras.jpg"
 	},
 	{
-		id: 2,
-		nombre: 'Nueces',
-		precio: 100,
-		imagen: './img/nueces.jpg'
+		"id": 2,
+		"nombre": "Nueces",
+		"precio": 100,
+		"imagen": "./img/nueces.jpg"
 	},
 	{
-		id: 3,
-		nombre: 'Castañas de Cajú',
-		precio: 300,
-		imagen: './img/castañasDeCaju.jpg'
+		"id": 3,
+		"nombre": "Castañas de Cajú",
+		"precio": 300,
+		"imagen": "./img/castañasDeCaju.jpg"
 	},
 	{
-		id: 4,
-		nombre: 'Almohaditas',
-		precio: 50,
-		imagen: './img/almohaditas.jpg'
+		"id": 4,
+		"nombre": "Almohaditas",
+		"precio": 50,
+		"imagen": "./img/almohaditas.jpg"
 	}
 ]
